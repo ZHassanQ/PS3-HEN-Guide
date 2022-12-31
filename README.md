@@ -39,6 +39,6 @@ In this guide any file mentioned will be listed in (Releases).
 - Apollo Save Tool [bucanero](https://www.paypal.me/bucanerodev)
 - Rufus [pbatard](https://github.com/pbatard)
 - XAMPP [Apcahefriends](https://www.apachefriends.org/)
-- PSN Patch [USERNAME](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
+- PSN Patch [UNKNOWN](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
 - PS3Splitter [karmian](http://karmian.org)
 
