@@ -1,7 +1,7 @@
 # PS3 HEN Guide
 This is a repository is guide to how install HEN (Hybrid Firmware).
 
-HEN Sections: 
+HEN Sections: [Wiki](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki)
 
 - [Combatiblity Check](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/1.-Compatibility-Check)
 - [Combatiblity Test](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/2.-Compatibility-Test) (Slim Model)
