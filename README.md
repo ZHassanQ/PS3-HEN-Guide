@@ -35,7 +35,7 @@ In this guide any file mentioned will be listed in (Releases).
 # Credits & Donations
 
 - MinVerChk [PSX-Place](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
-- HFW 4.89.1 (Hybrid Frimware) [littlebulap](https://github.com/littlebalup) [PSX-Place](https://www.psx-place.com/members/48/)
+- HFW 4.89.1 (Hybrid Frimware) [littlebulap](https://github.com/littlebalup) - [PSX-Place](https://www.psx-place.com/members/48/)
 - HFW 4.88.1 (Hybrid Frimware) [Joonie](https://github.com/Joonie86) - [zecoxao](https://github.com/zecoxao) - [LuanTeles](https://github.com/LuanTeles)
 - HEN (Homebrew ENabler) [USERNAME]()
 - MultiMan [deank](http://multiman.deanbg.com/) - [PayPal](https://www.paypal.com/paypalme/webplugins)
