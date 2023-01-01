@@ -6,8 +6,9 @@ HEN Sections: [Wiki](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki)
 - [Combatiblity Check](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/1.-Compatibility-Check)
 - [Combatiblity Test](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/2.-Compatibility-Test) (Slim Model)
 - [Preparing](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/3.-Preparing)
-- [Self Hosting & Installing HEN](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/4.-Self-Hosting-&-Installing-HEN)
-- [Installing Homebrew Apps & Games](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/5.-Installing-Homebrew-Apps-&-Games)
+- [Updating to HFW](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/4.-Updating-to-HFW)
+- [Self Hosting & Installing HEN](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/5.-Self-Hosting-&-Installing-HEN)
+- [Installing Homebrew Apps & Games](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/6.-Installing-Homebrew-Apps-&-Games)
 
 
 
