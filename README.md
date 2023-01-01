@@ -39,7 +39,7 @@ In this guide any file mentioned will be listed in (Releases).
 - HFW 4.89.1 (Hybrid Frimware) [littlebulap](https://github.com/littlebalup) - [PSX-Place](https://www.psx-place.com/members/48/)
 - HFW 4.88.1 (Hybrid Frimware) [Joonie](https://github.com/Joonie86) - [zecoxao](https://github.com/zecoxao) - [LuanTeles](https://github.com/LuanTeles)
 - WinMD5 [Website](https://www.winmd5.com/)
-- HEN (Homebrew ENabler) [USERNAME]()
+- HEN (Homebrew ENabler) [esc0rtd3w & bguerville & Habib](https://github.com/PS3Xploit) - [PayPal](https://www.paypal.me/nopsn)]()
 - MultiMan [deank](http://multiman.deanbg.com/) - [PayPal](https://www.paypal.com/paypalme/webplugins)
 - WebMan [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 - PSX & PS2 & PS3 Covers Pack [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
