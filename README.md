@@ -18,8 +18,8 @@ HEN Sections: [Wiki](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki)
 In this guide any file mentioned will be listed in (Releases).
 
 - [Original Forum](https://gbatemp.net/threads/ultimate-ps3-guide.623854/#post-10035808)
-- [HFW 4.89.1 (Hybrid Frimware)](https://www.psx-place.com/threads/hfw-4-89-1-hybrid-firmware-official-release.37319/) [HFW 4.88.1 (Hybrid Frimware)](https://www.psx-place.com/resources/4-88-1-hfw-hybrid-firmware.1249/)
-- [HEN 3.1.1 (Homebrew ENabler)](https://www.psx-place.com/threads/update-4-89-ps3hen-v3-1-0-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/) [HEN 3.0.3 (Homebrew ENabler)](https://www.psx-place.com/threads/update-4-89-ps3hen-v3-1-1-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/)
+- [HFW 4.89.1 (Hybrid Frimware)](https://www.psx-place.com/threads/hfw-4-89-1-hybrid-firmware-official-release.37319/) - [HFW 4.88.1 (Hybrid Frimware)](https://www.psx-place.com/resources/4-88-1-hfw-hybrid-firmware.1249/)
+- [HEN 3.1.1 (Homebrew ENabler)](https://www.psx-place.com/threads/update-4-89-ps3hen-v3-1-0-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/) - [HEN 3.0.3 (Homebrew ENabler)](https://www.psx-place.com/threads/update-4-89-ps3hen-v3-1-1-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/)
 
 ---
 
