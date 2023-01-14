@@ -33,6 +33,7 @@ In this guide any file mentioned will be listed in (Releases).
 
 - [MinVerChk](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
 - [PS3Splitter](http://karmian.org/projects/ps3splitter)
+- [PS3Spliiter (Linux)](https://gist.github.com/nabilfreeman/ecc984a40af8632b360453389e784cac)
 - [Rufus](https://rufus.ie/en/)
 - [WinMD5](https://www.psx-place.com/threads/hfw-4-89-1-hybrid-firmware-official-release.37319/)
 - [XAMPP](https://www.apachefriends.org/)
@@ -60,5 +61,6 @@ In this guide any file mentioned will be listed in (Releases).
 - MinVerChk [PSX-Place](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
 - Rufus [pbatard](https://github.com/pbatard)
 - PS3Splitter [karmian](http://karmian.org)
+- PS3Splitter Linux [nabilfreeman](https://gist.github.com/nabilfreeman)
 - WinMD5 [Website](https://www.winmd5.com/)
 - XAMPP [Apcahefriends](https://www.apachefriends.org/)
