@@ -1,5 +1,5 @@
 # PS3 HEN Guide
-This is a repository is guide to how install HFW (Hybrid Firmware) and enable HEN (Homebrew ENabler).
+This is a repository is guide to how install HFW (Hybrid Firmware) and enable HEN (Homebrew ENabler) on your PlayStation 3.
 
 HEN Sections: [Wiki](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki)
 
