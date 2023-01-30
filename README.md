@@ -25,7 +25,6 @@ In this guide any file mentioned will be listed in (Releases).
 - [Apollo Save Tool](https://github.com/bucanero/apollo-ps3)
 - [IRISMAN](https://github.com/aldostools/IRISMAN)
 - [MultiMan (mmCM)](https://www.psx-place.com/threads/update-multiman-04-85-01-official-update-from-deank-adds-4-83-4-85-cfw-support-ps3hen-support.26435/page-3#post-210206)
-- [PSN Patch](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
 - [PSX & PS2 & PS3 Covers Pack](https://github.com/aldostools/Resources/)
 - [WebMan](https://github.com/aldostools/webMAN-MOD)
 
