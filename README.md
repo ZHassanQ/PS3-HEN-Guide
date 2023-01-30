@@ -4,7 +4,7 @@ This is a repository is guide to how to install HFW (Hybrid Firmware) and enable
 HEN Sections: [Wiki](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki)
 
 - [Combatiblity Check](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/1.-Compatibility-Check)
-- [Combatiblity Test](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/2.-Compatibility-Test) (Slim Model)
+- [Combatiblity Test](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/2.-Compatibility-Test)
 - [Preparing](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/3.-Preparing)
 - [Updating to HFW](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/4.-Updating-to-HFW)
 - [Self Hosting & Installing HEN](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/5.-Self-Hosting-&-Installing-HEN)
