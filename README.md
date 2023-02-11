@@ -9,6 +9,7 @@ HEN Sections: [Wiki](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki)
 - [Updating to HFW](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/4.-Updating-to-HFW)
 - [Self Hosting & Installing HEN](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/5.-Self-Hosting-&-Installing-HEN)
 - [Installing Homebrew Apps & Games](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/6.-Installing-Homebrew-Apps-&-Games)
+- [PS2 Games, Dualshock 4, NTFS](https://github.com/ZHassanQ/PS3-HEN-Guide/wiki/7.-PS2-Games,-Dualshock-4,-NTFS)
 
 
 
