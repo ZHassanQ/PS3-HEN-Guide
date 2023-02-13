@@ -29,7 +29,11 @@ In this guide any file mentioned will be listed in (Releases).
 - [PSX & PS2 & PS3 Covers Pack](https://github.com/aldostools/Resources/)
 - [WebMan](https://github.com/aldostools/webMAN-MOD)
 
----
+- [MultiMan (mmCM)](https://www.psx-place.com/threads/update-multiman-04-85-01-official-update-from-deank-adds-4-83-4-85-cfw-support-ps3hen-support.26435/page-3#post-210206)
+- [WebMan](https://github.com/aldostools/webMAN-MOD)
+
+
+## Apps (Computer)
 
 - [MinVerChk](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
 - [PS3Splitter](http://karmian.org/projects/ps3splitter)
@@ -39,13 +43,13 @@ In this guide any file mentioned will be listed in (Releases).
 - [XAMPP](https://www.apachefriends.org/)
 
 
-
 # Credits & Donations
 
 
 - HFW 4.89.1 (Hybrid Frimware) [littlebulap](https://github.com/littlebalup) - [PSX-Place](https://www.psx-place.com/members/48/)
 - HFW 4.88.1 (Hybrid Frimware) [Joonie](https://github.com/Joonie86) - [zecoxao](https://github.com/zecoxao) - [LuanTeles](https://github.com/LuanTeles)
 - HEN (Homebrew ENabler) [esc0rtd3w & bguerville & Habib](https://github.com/PS3Xploit) - [PayPal](https://www.paypal.me/nopsn)
+- Essentials [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 
 ---
 
@@ -53,7 +57,6 @@ In this guide any file mentioned will be listed in (Releases).
 - IRISMAN [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 - MultiMan [deank](http://multiman.deanbg.com/) - [PayPal](https://www.paypal.com/paypalme/webplugins)
 - PSN Patch [PSX-Place](http://www.psx-place.com/forum/psnpatch/psnpatch-information-releases-125.html)
-- PSX & PS2 & PS3 Covers Pack [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 - WebMan [aldostools](https://github.com/aldostools) - [PayPal](https://www.paypal.com/donate/?hosted_button_id=HCYZ9AM3JUB78)
 
 ---
