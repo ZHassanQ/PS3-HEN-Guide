@@ -32,7 +32,7 @@ In this guide any file mentioned will be listed in (Releases).
 - [WebMan](https://github.com/aldostools/webMAN-MOD)
 
 
-Apps (Computer)
+## Apps (Computer)
 
 - [MinVerChk](https://www.psx-place.com/resources/minverchk-minimum-version-checker.610/)
 - [PS3Splitter](http://karmian.org/projects/ps3splitter)
